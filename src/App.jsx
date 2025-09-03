@@ -116,6 +116,11 @@ const BookFinder = () => {
           <h3 className="font-bold text-xl text-gray-800 mb-3 line-clamp-2 leading-tight group-hover:text-purple-700 transition-colors">
             {book.title}
           </h3>
+
+          {/* 
+          git config --global user.name "YourUsername"
+git config --global user.email "YourEmail@example.com"
+          */}
           
           <div className="space-y-3 text-sm text-gray-600">
             <div className="flex items-center">
